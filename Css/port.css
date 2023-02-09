@@ -14,7 +14,7 @@ body{
 .hero-sec{
     padding: 2rem 12rem;
     width: 100%;
-    background: url(/images/lukebanner.png);
+    background: url(../images/lukebanner.png);
     background-repeat: no-repeat;
     background-color: black;
     background-position:center ;
