@@ -14,7 +14,7 @@ body{
 .hero-sec{
     padding: 2rem 12rem;
     width: 100%;
-    background: url(./images/lukebanner.png);
+    background: url(../images/lukebanner.png);
     background-repeat: no-repeat;
     background-color: black;
     background-position:center ;
@@ -111,7 +111,7 @@ hr{
     "e"
     "f";
     background-color: black;
-    background-image: url(/images/bg-header-desktop.png);
+    background-image: url(../images/bg-header-desktop.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 2rem 12rem 7rem 12rem;
@@ -213,7 +213,7 @@ hr{
 footer{
     width: 100%;
     padding: 2rem 12rem;
-    background: url(/images/bg-header-desktop.png);
+    background: url(../images/bg-header-desktop.png);
     background-color:#242424;
     background-size: cover;
 }
@@ -299,7 +299,7 @@ input, textarea{
 @media (max-width:1200px) and (min-width:500px) {
     .hero-sec{
         padding: 2rem 3rem;
-        background: url(/images/lukebanner.png);
+        background: url(../images/lukebanner.png);
         background-repeat: no-repeat;
         background-color: black;
         background-position:center ;
@@ -359,7 +359,7 @@ input, textarea{
 
     .hero-sec{
         padding:1rem 1rem 5rem 1rem ;
-        background-image: url(./images/lukemobile.png);
+        background-image: url(../images/lukemobile.png);
         background-position: top;
         background-repeat: no-repeat;
         height: 90vh;
