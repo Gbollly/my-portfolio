@@ -7,3 +7,6 @@ Just a quick simple design of my portfolio
 - Js
 
 # Form Validation
+
+#Live Link
+https://gbollly.github.io/my-portfolio/portfolio.html
